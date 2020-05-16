@@ -74,20 +74,20 @@ th predict.lua -checkpoint_file checkpoints/vqa_epoch23.26_0.4610.t7 -input_imag
 
 从VQA测试集中随机抽取图像+文字组合问题对，给出基于VIS+LSTM的视觉问答模型预测的答案。
 
-![](http://i.imgur.com/1D6NxvD.jpg)
+![Image1](./data/image1.png)
 
-Q: 站着的那个人手里拿的是什么?
-A: 棒球棒
+Q: 站着的女生穿的衣服是什么颜色?
+A: 红褐色
 
-![](http://i.imgur.com/dXhNKP6.jpg)
+![Image2](./data/image2.png)
 
-Q: 这个女人左肩上放是什么东西?
-A: 叉子
+Q: 女主播手里拿着什么?
+A: 蓝色牛仔裤
 
-![](http://i.imgur.com/thzv03r.jpg)
+![Image3](./data/image3.png)
 
-Q: 粉红色的花在哪里?
-A: 在墙上
+Q: 女生手里拿的是什么?
+A: 土豆
 
 ## 参考
 
